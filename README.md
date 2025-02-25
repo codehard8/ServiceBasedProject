@@ -1,7 +1,7 @@
 # ServiceBasedProject
 
 ## Description
-This is a C++ project named `ServiceBasedProject`.
+This is a C++ project named `ServiceBasedProject` where a person can make a buyer or seller account, the seller can make gigs and the buyer can order any service. the project includes sign-up, sign-in, and checkout.
 
 ## Installation
 To install this project, clone the repository using the following command:
@@ -16,6 +16,5 @@ Provide instructions and examples on how to use your project.
 If you would like to contribute to this project, please fork the repository and submit a pull request.
 
 ## License
-This project does not currently have a license. If you add one, mention it here.
+This project is free to use for any one.
 
-Feel free to customize and expand this README with more specific details about your project.
