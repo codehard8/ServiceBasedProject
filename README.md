@@ -1,5 +1,3 @@
-Here is a basic README template for your repository `ServiceBasedProject`:
-
 # ServiceBasedProject
 
 ## Description
